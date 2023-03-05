@@ -4,8 +4,8 @@ Andisheh PARSI
 Developer & Teacher
 -----------------------------
 
-*   🖥️  See my portfolio at [andisheh-parsi.com](http://andisheh-parsi.com)
-*   🚀  I'm currently working on [Holosen](https://holosen.net)
+*   🖥️  See my portfolio at [andishehparsi.ir](http://andishehparsi.ir)
+*   🚀  I'm currently working on [Andisheh Parsi Ikad]([https://holosen.net](http://andishehparsi.ir))
 *   🤝  We're open to collaborating on interesting projects as a web and android developer
 
 <a href="https://www.github.com/andishehparsi" target="_blank" rel="noreferrer"><img
